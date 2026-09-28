@@ -5,7 +5,8 @@
     <title>Terminal U.N.I.V.</title>
 </head>
 <body>
-    <h1>TERMINAL U.N.I.V.</h1>
-    <p>CONNECTION ESTABLISHED.</p>
+    <p>Bienvenido!
+    No sé como llegaste aquí... Pero no importa.</p>
+    
 </body>
 </html>
